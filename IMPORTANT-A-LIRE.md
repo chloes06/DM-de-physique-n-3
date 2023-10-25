@@ -6,4 +6,4 @@ d'abord écrire la commande
 pip install scipy
 puis
 pip install numpy
-puis matplotlib
+puis pip install matplotlib
